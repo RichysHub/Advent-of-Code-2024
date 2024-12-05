@@ -2,7 +2,7 @@
 v:-*7**+"xyN@" 9<vp*92/2"#>"p<2"2<"1:/*"@"4pp1"2^"?
 >28p 4"@"* /:18pv>\"@"v     #^3"2<"0:/*"@"4pp2"2^"^
 v     p80/ *"@"4<v\-*2<     ^              pp3"2^"^
->~:" "-   #v_$> #v  ">#"2/29*p"<2"82*1+p        v ^
+>~:" "-   #v_$ v v                              v ^
 ^+**25\-"0"<     v                              < ^
                  v                              ^ ^
                  v                              ^>^"^2"7p  v
@@ -14,7 +14,7 @@ v     p80/ *"@"4<v\-*2<     ^              pp3"2^"^
                  v                              ^ ^                        8
                  v                              ^ ^                        g
                  v                              ^ ^                        p
-                 v                              ^ ^     v   p82+1g82<      <
+               >#v  ">#"2/29*p"<2"82*1+p        ^ ^     v   p82+1g82<      <
                  v   p7"2>"p+1*29/2"#>" p+1*28"2^"^<
                 >v  "v#"2/29*p28g18g08g         ^ ^
                 >v  "v#"2/92*1+p:2\g\:1\g\0\g   ^ ^
@@ -40,7 +40,6 @@ v     p80/ *"@"4<v\-*2<     ^              pp3"2^"^
 2_20:Do the -128 on the value for byte encoding, tucked here
 20_16:Decode bytes
 20_20:Decode is special, doesn't clear its send, is assumed default call
-4_31:Sending to custom return, via decode
 19_16:Get content of row, decoded
 19_21:clear own send
 18_16:Get row number, decoded
@@ -49,3 +48,4 @@ v     p80/ *"@"4<v\-*2<     ^              pp3"2^"^
 19_33:Juggling row to get bytes at that row
 17_25:Set return to blank check code
 17_51:This function gets called from the return line, a little funky, could be changed in future?
+16_31:Sending to custom return, via decode
