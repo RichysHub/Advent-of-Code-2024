@@ -1,18 +1,29 @@
                 v      pg85 5                   <
-v:-*7**+"xyN@" 9<  >4"@"**+4"@"**+ v
->68p 4"@"* /:58pv  ^v+*7**+"xyN@"  <>:"Nyx"+ v                                 p
-v     p84/ *"@"4<  ^>              v v**5"p"*<  $
->~:" "-   #v_$v    ^    p7"#<"<    v >       -!#^_ `#v_ 5 58g g\5 58gpv
-^+**25\-"0"<  >   #^ 68g58g48g^    v
-                   ^               v
-                   ^v        p7"#v"v     v   p85+1g85<                <
-   "???"           ^>:6\g\:5\g\4\gvv
-   >   <      >    ^      p+29"#>"<v
-                                   v
-                    >              >^
-                   ^                     <
+v:-*7**+"xyN@" 9<  v
+>28p 4"@"* /:18pv  v               >:"Nyx"+ v
+v     p80/ *"@"4<  v               ^v**5"p"*<   $
+>~:" "-   #v_$v    v    p7"#<"<    ^>        -!#^_ `#v_ 5 28g g\5 28gpv
+^+**25\-"0"<  >   #v 28g18g08g^    ^
+                   v               ^
+                   vv        p7"#^"^     v   p82+1g82<                <
+???                v>:2\g\:1\g\0\gv^
+                   v      p  2"#>"<^
+                   v               ^
+                   v               ^
+                   v               ^
+                   v               ^
+                   v               ^
+                   v               ^
+                   v               ^
+                   v               ^
+                   >4"@"**+4"@"**+v^
+                    v+*7**+"xyN@" <^
+                    >              ^
+
+
+              ^                          <
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-8_5:Track y-value of left column to compare against
+8_2:Track y-value of left column to compare against
 0_17:Testing
 4_55:Put it "there", being sure to copy chain down
 7_35:Return from row decode
